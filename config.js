@@ -11,7 +11,7 @@
 
 module.exports = function(app){
 
-// The Config File is fukc
+
 
 
 	app.set('view engine', 'html');
