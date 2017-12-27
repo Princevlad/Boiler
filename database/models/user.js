@@ -1,3 +1,6 @@
+//User db model designed by Prince
+
+
 
 var mongoose = require('mongoose');
 var bcrypt   = require('bcrypt-nodejs');
