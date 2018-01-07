@@ -11,7 +11,7 @@
 
 module.exports = function(app){
 
-//sjfjkgjgg//
+//sjfjkgjgg//   now mz is a bad boy from mx
 
 
 	app.set('view engine', 'html');
